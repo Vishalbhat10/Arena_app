@@ -28,3 +28,12 @@ step4: Run Flask application.
 Command : python app.py
 
 Open the browser and go to http://localhost:5000/ to run the application.
+
+# Screenshots
+
+<img src = 'images/screenshot-1.png'/>
+
+<img src = 'images/screenshot-2.png'/>
+
+
+
