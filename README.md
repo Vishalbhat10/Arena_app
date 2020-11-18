@@ -31,9 +31,9 @@ Open the browser and go to http://localhost:5000/ to run the application.
 
 # Screenshots
 
-<img src = 'images/screenshot-1.png'/>
+<img src = 'images/screenshot-1.PNG'/>
 
-<img src = 'images/screenshot-2.png'/>
+<img src = 'images/screenshot-2.PNG'/>
 
 
 
