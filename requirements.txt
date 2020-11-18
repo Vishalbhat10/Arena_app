@@ -1,0 +1,8 @@
+flask
+flask-sqlalchemy
+GeoAlchemy2
+flask-wtf
+psycopg2
+sqlalchemy-utils
+pyshp
+pygeoif
